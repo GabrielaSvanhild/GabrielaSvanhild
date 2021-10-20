@@ -1,5 +1,8 @@
-<h1 align="center">Hola👋, gracias por visitar mi perfil!</h1>
-<h2>Mi nombre es Gabriela Svanhild Felix, me gusta que me digan Sua por el apodo de mi segundo nombre.</h2>
+<h1 align="center">Bienvenidos a mi perfil!👋</h1>
+<h2>Mi nombre es Gabriela Svanhild Felix y es un gusto para mi que estes aca!.</h2>
+
+-❤️ Enamorada de la teconología.
+- 🥊 💃🏼 Boxeo y bailo en mis tiempos libres.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriela-svanhild-felix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-svanhild-felix/" height="30" width="40" /></a>
