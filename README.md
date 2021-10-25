@@ -1,8 +1,8 @@
 <h1 align="center">Bienvenidos a mi perfil!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <h2>Mi nombre es Gabriela Svanhild Felix y es un gusto para mi que estes aca!</h2>
 
--❤️ Enamorada de la teconología
-- 🥊 💃🏼 Boxeo y bailo en mis tiempos libres.
+* ❤️ Enamorada de la teconología
+* 🥊 💃🏼 Boxeo y bailo en mis tiempos libres.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/gabriela-svanhild-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-svanhild-felix/" height="30" width="40" /></a>
