@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos a mi perfil!👋</h1>
+<h1 align="center">Bienvenidos a mi perfil!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <h2>Mi nombre es Gabriela Svanhild Felix y es un gusto para mi que estes aca!.</h2>
 
 -❤️ Enamorada de la teconología
